@@ -2,8 +2,8 @@
 <!--EDIT starts here -->
 
 
-<h1 align="center">Hi 👋, I'm "YOUR_NAME"</h1>
-<h3 align="center">Student at "COLLEGE_NAME"🌟.</h3>
+<h1 align="center">Hi 👋, I'm "Bhavish Rai B"</h1>
+<h3 align="center">Student at "Shaydari College of Engineering and Management"🌟.</h3>
 
 <br>
 
@@ -15,10 +15,13 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
+<p>
+- 🌱 I’m currently learning something interested
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- instagram id :- its_braib
 
-- 📫 How to reach me **EMAIL_ID**
+
+- 📫 How to reach me **bhavishraib@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
