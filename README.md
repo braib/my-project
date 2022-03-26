@@ -18,7 +18,7 @@
 <p>
 - 🌱 I’m currently learning something interested
 
-- instagram id :- its_braib
+
 
 
 - 📫 How to reach me **bhavishraib@gmail.com**
@@ -28,7 +28,7 @@
 <br>
 
 <!--EDIT starts here -->
-
+git
 
 
 
